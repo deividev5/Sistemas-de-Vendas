@@ -185,28 +185,5 @@ OraSession.Options.Direct := True;            // Direct Mode ativado
 
 ---
 
-## 📁 Como adicionar os screenshots
-
-1. Crie a pasta `screenshots/` dentro do projeto
-2. Tire prints de cada tela do sistema em execução
-3. Salve com os nomes indicados nos blocos de imagem acima:
-   - `screenshots/tela_principal.png`
-   - `screenshots/cadastro_cliente.png`
-   - `screenshots/produtos.png`
-   - `screenshots/cadastro_produto.png`
-   - `screenshots/pedidos.png`
-   - `screenshots/cadastro_pedido.png`
-
----
-
-## 👨‍💻 Autor
-
-**Seu Nome**
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- E-mail: seuemail@exemplo.com
-
----
-
 > Projeto desenvolvido para fins de aprendizado e demonstração de habilidades em
 > desenvolvimento desktop com Delphi e integração com banco de dados Oracle.
