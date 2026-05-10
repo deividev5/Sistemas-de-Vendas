@@ -1,0 +1,48 @@
+# Delphi compiled output
+*.dcu
+*.dcp
+*.dcpil
+*.dpu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.lib
+*.o
+*.obj
+*.map
+*.tds
+*.drc
+*.res
+*.rsm
+
+# Delphi local/user-specific files
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.local
+*.stat
+
+# Delphi backup files
+__history/
+__recovery/
+
+# Delphi build output
+Win32/
+Win64/
+Android/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+Linux64/
+
+# Delphi desktop layout
+*.dsk
+
+# Delphi package cache
+*.cache
+
+# Build output
+Debug/
+Release/
